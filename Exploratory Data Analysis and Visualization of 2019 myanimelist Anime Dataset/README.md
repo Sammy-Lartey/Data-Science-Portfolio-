@@ -1,0 +1,5 @@
+In this Project, I will conduct a data analysis on anime statistics. The dataset used for this analysis is sourced from Kaggle (https://www.kaggle.com/datasets/aludosan/myanimelist-anime-dataset-as-20190204) and consists of 15,278 rows and 27 columns.
+
+In recent years, there has been a surge in the creation and popularity of internet-based anime. This trend has not only captivated children but also teenagers and adults. The captivating stories, improved quality, and artistic styles of modern anime have attracted a broad audience.
+
+Given this context, my aim is to extract insights from the dataset to understand which genres and anime rankings are particularly popular. I intend to provide recommendations to the community based on this analysis. To prepare for this task, I have acquired foundational knowledge in data analysis using Pandas and Matplotlib, which I learned from the "Zero To Pandas" and "Pieran Data Python Programming Bootcamp" course. If you are also interested in embarking on your data analysis journey using Pandas and other data visualization tools, I highly recommend them!
